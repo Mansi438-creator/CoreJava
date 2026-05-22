@@ -1,3 +1,4 @@
+// GitHub test
 package core.patterns;
 
 public class StarsPattern {
