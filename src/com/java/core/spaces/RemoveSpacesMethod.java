@@ -1,4 +1,4 @@
-package spaces;
+package com.java.core.spaces;
 
 public class RemoveSpacesMethod {
 

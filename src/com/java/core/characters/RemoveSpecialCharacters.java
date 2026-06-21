@@ -1,4 +1,4 @@
-package characters;
+package com.java.core.characters;
 
 public class RemoveSpecialCharacters {
 

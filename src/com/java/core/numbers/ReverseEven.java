@@ -1,4 +1,4 @@
-package numbers;
+package com.java.core.numbers;
 import java.util.Scanner;
 
 public class ReverseEven {

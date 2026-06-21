@@ -1,4 +1,4 @@
-package com.java.core;
+package com.java.core.demo;
 
 public class HelloWorld {
 

@@ -1,4 +1,4 @@
-package conditionalstatement;
+package com.java.core.conditionalstatement;
 
 public class ConditionalStatements {
 

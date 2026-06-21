@@ -1,5 +1,5 @@
 // GitHub test
-package core.patterns;
+package com.java.core.patterns;
 
 public class StarsPattern {
 

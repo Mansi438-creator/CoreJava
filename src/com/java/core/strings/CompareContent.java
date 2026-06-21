@@ -1,4 +1,4 @@
-package strings;
+package com.java.core.strings;
 
 public class CompareContent {
 

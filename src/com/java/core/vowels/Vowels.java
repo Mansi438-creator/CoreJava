@@ -1,4 +1,4 @@
-package vowels;
+package com.java.core.vowels;
 
 public class Vowels {
 

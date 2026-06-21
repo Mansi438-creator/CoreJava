@@ -1,4 +1,4 @@
-package demo.java;
+package com.java.core.demo;
 
 public class Demo {
 
