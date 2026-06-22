@@ -1,4 +1,3 @@
-// GitHub test
 // Organize Java package structure
 package com.java.core.patterns;
 
