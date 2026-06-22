@@ -1,3 +1,4 @@
+// Organize Java package structure
 package com.java.core.spaces;
 
 public class RemoveSpacesMethod {
