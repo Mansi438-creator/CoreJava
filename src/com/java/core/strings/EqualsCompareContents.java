@@ -1,3 +1,4 @@
+// Organize Java package structure
 package com.java.core.strings;
 
 public class CompareContent {
