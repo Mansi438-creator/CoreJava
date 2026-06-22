@@ -1,3 +1,4 @@
+// Organize Java package structure
 package com.java.core.vowels;
 
 public class Vowels {
